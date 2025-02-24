@@ -20,7 +20,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://striver-69.github.io/my-app",
+  "homepage": "https://striver-69.github.io/nexvest",
   "eslintConfig": {
     "extends": [
       "react-app",
