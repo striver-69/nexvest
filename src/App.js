@@ -8,6 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           NexVest POC of Deploymentfwefwefewew
+          This is just for testing
+          this should be automaic from now..
         </p>
         <a
           className="App-link"
